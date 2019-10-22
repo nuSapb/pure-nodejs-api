@@ -1,0 +1,16 @@
+{
+  "name": "pure-nodejs-api",
+  "version": "1.0.0",
+  "description": "make REST API by Node.js without framwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/nuSapb/pure-nodejs-api.git",
+  "author": "Anu S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuSapb/pure-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/nuSapb/pure-nodejs-api#readme"
+}
