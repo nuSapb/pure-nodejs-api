@@ -3,6 +3,6 @@ const port = '3000'
 
 const server = require('./controller')
 
-server.listen(port, hostname, () => {
+server.listen(port, host, () => {
     console.log(`Server running on http://${host}:${port}/`)
 })
